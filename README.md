@@ -5,7 +5,7 @@
 
 ### Sobre
 - 👨‍🎓 Formado em Ciências da Computação na [UNIFG](https://unifg.edu.br/).
-- 💻 Backend Develop na [Invillia](https://invillia.com/global-growth-framework/).
+- 💻 Software engineer na [Pitang](https://pitang.com/).
 
 <br/>
 
